@@ -2,7 +2,7 @@
 
 ## 📊 Customer Churn Prediction
 
-This project is a complete **end-to-end Machine Learning solution** to predict customer churn in a telecom company. It includes:
+This project is a complete **End-to-End Machine Learning solution** to predict customer churn in a telecom company. It includes:
 
 - Data Cleaning & Feature Engineering  
 - Model Training with Logistic Regression, Random Forest, and XGBoost  
@@ -12,14 +12,14 @@ This project is a complete **end-to-end Machine Learning solution** to predict c
 
 ## 🚀 Key Features
 
-- Built with a real-world Telco dataset  
+- Built with a real-world Telco dataset [Dataset Source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Final ML model encapsulated in a pipeline (`final_pipeline.pkl`)  
 - Hosted on Streamlit Cloud for public access  
 - Simple UI form for input and churn prediction
 
 ## 🧠 Tech Stack
 
-- **Python** (Pandas, NumPy, scikit-learn, XGBoost)
+- **Python** (Pandas, NumPy, scikit-learn)
 - **Model Deployment:** Pickle, Streamlit
 - **Web Interface:** HTML, CSS (for Flask), Streamlit Widgets
 - **Version Control:** Git + GitHub
