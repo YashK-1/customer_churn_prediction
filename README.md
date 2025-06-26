@@ -29,6 +29,3 @@ This project is a complete **end-to-end Machine Learning solution** to predict c
 - **Final Model:** Logistic Regression
 - **Accuracy:** ~81%
 - Balanced performance with good generalization after tuning and cleaning
-
-## 📂 Repository Structure
-
